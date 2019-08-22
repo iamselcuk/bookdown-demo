@@ -1,0 +1,46 @@
+--- 
+title: " Batı Avrupa Ülkelerinde ( İspanya, Portekiz) ve Türkiye’de Kobilere Yönelik Devlet Destekleri ve Destek Önerileri"
+
+author: "Selcuk DONMEZ"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+cover-image: "docs/bookdown/figure/1.jpg"
+---
+                         
+      
+# Ozet
+
+Küçük orta boylu işletmelerin (Kobi) ülke ekonomilerinde ve globalleşen dünyada etki alanı genişlemektedir.  Günümüz dünyasında mevcut etki alanıyla küçük orta boylu işletmeler devletler  tarafından geliştirilen politikalarla birlikte yeni roller üstlenmekte ve bu rollerin işletmelere getirdiği yenilik ve değişimler analiz edilmektedir. Bu çalışmanın amacı Batı Avrupa ülkelerinde ve Türkiye’de  kobilere yönelik destek politikalarına değinilerek, politika belirleyicilere ve uygulayıcılara yol gösterecek önerilerin ortaya atılmasıdır.
+
+Çalışmada Batı Avrupa ülkerinde ve Türkiye’de devlet destekleri, bu ülkelerin ekonomilerinin yapısı ortaya konulacak. Durum değerlendirmesi neticesinde destek modelleri önerilecektir.
+
+
+
+```{r eval=FALSE}
+Anahtar Kelime :
+Kobi
+Devlet Destekleri
+
+```
+
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
+
+```{r resim, echo=FALSE, fig.align = 'center',fig.cap=" Baslangic Yerlesimi", out.width = '100%'}
+
+knitr::include_graphics("docs/bookdown/figure/1.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+```

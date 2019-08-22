@@ -1,0 +1,6 @@
+book_filename: "bookdown-ort-master"
+language:
+  ui:
+output_dir: "docs"
+download: no
+delete_merged_file : yes

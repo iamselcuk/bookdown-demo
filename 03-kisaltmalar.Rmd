@@ -1,0 +1,31 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Kisaltmalar 
+
+
+
+
+
+**KOBİ**	: Küçük ve Orta Boy İşletme \
+**KOSGEB**	: Küçük ve Orta Ölçekli İşletmeleri Destekleme İdaresi Başkan. \
+**UNTCAD**	: Birleşmiş Milletler Ticaret ve Kalkınma Örgütü \
+**OECD**		: Ekonomik Kalkınma ve İşbirliği Örgütü\
+**İMF**		: Dünya Bankası\
+**AB**		: Avrupa Birliği\
+**SBA**		: Avrupa Küçük İşletmeler Yasası\
+**ERFD ** 	: Avrupa Bölgesel Kalkınma Fonu\
+**ICO**		: İspanya Resmi Kredi Kurumu\
+**FONPYME**	: İspanya Kobi Yabancı  Yatırımı Teşvik Fonu\
+**ENİSA **	: İspanya Ulusal İnovasyon  İşletmesi\
+**İNE**		: Portekiz İstatistik Ofisi\
+**İNE**	: İspanya İstatistik Ofisi\
+**DGPYME**	: İspanya Kobi Politikaları Genel Sekreterliği\
+**İAPMEİ**: Portekiz Küçük Orta Ölçekli İşletmeler Destekleme ve Yatırım İdaresi\
+**YÖK**	: Yüksek Öğretim Kurulu\
+**WEF**	: Dünya Ekonomik Forumu\
+**AİCEP**	: Portekiz Yatırım ve Ticaret Ajansı\
+**CDTİ**		: İspanya Teknoloji ve Endüstri Geliştirme Merkezi \
+	

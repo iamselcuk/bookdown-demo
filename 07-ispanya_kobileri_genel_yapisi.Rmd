@@ -1,0 +1,170 @@
+# İspanya Kobilerinin Genel Yapisi
+
+Küçük orta boylu işletmeler ekonomilere önemli katkılar yapmaktadır. Genel kobi sınıflandırmalarına göre kapsam dışı olan işletmeler genel işletme sayılarına oranlandığında yüzde doksanlara varan değerler elde edilmektedir. Benzer şekilde Avrupa Komisyonu Küçük İşletmeler Yasasına göre (Small Business Act-SBA) İspanyada kobi tanımına giren işletmelerin genele oranı % 99,9 (Tablo-21) olarak verilmektedir. 
+
+```{r resim20, echo=FALSE, fig.align = 'center',fig.cap=" Kaynak  Kobi Yasası İspanya  Raporu,  İspanya İşletme Yapıları", out.width = '70%'}
+
+knitr::include_graphics("docs/bookdown/figure/22.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+``` 
+
+İspanya’da yaklaşık olarak 1000 kişi başına 58 küçük ve orta ölçekli işletme düşmektedir, aynı oran AB üyelerinde 1000 kişi başına yaklaşık 40’dır. İspanya Kobilerinin işgücüne yaptığı katkı dokuz milyon civarındadır. Bu işgücü katkısı genel işgücüne oranlandığında % 76 gibi önemli bir oran elde edilir. Aynı oran AB ortalamalarına bakıldığında % 66.9 olarak gerçekleşmiştir. Ekonomiye  etkiler  katma değerler  bazında ele alındığında  İspanya’da ekonomik faaliyetlerin % 67,9’unun kobilerin payı olduğu, bunun rakamsal değeri ise 387 milyar euro olduğu bilinmektedir. Tüm bu veriler ışığında İspanya’da kobilerin verilerinin genel AB ortalamasına göre üstün olduğu ve ekonominin geneline önemli katkı yaptıkları anlaşılmaktadır.
+
+İspanya’da kobiler kendi içlerinde incelendiğinde % 93 ‘sinin mikro ölçekli,     % 6 ‘sının küçük ölçekli ve kalan % 1 lik kesimin orta ölçekli işletme olduğu görülmektedir. Dolayısıyla mikro ölçekli işletmelerin kobilerin genel karakteristiklerini belirledikleri söylenebilir. Mikro işletmelerin sayılarından ziyade ekomiye yaptıkları katkının değeri istihdamın % 40’ının sağlanmasıyla anlaşılmaktadır. Bu oran AB ortalamalarına göre yaklaşık % 10 daha fazladır. 
+
+```{r resim21, echo=FALSE, fig.align = 'center',fig.cap=" Kaynak  Kobi Yasası İspanya  Raporu, İspanya İşletme Sayıları", out.width = '70%'}
+
+knitr::include_graphics("docs/bookdown/figure/23.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+``` 
+
+```{r resim22, echo=FALSE, fig.align = 'center',fig.cap=" Kaynak  Kobi Yasası İspanya Raporu, İspanya Kobilerinin İşgücüne Katkısı", out.width = '70%'}
+
+knitr::include_graphics("docs/bookdown/figure/24.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+``` 
+
+
+```{r resim23, echo=FALSE, fig.align = 'center',fig.cap="Kaynak  Kobi Yasası İspanya Raporu, İspanya Kobilerinin  Katma Değer Etkileri", out.width = '70%'}
+
+knitr::include_graphics("docs/bookdown/figure/25.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+``` 
+
+AB kobi yasasına göre ülkelerin durumlarının değerlendirilmesi için çeşitli kriterler oluşturulmuştur. Bunlar girişimcilik, ikinci şans, duyarlı yönetim, önce küçük olanı düşün, devlet yardımları ve kamu alımları, finans, tek pazar, çevre, yetenekler ve yenilik, globalleşme olarak belirlenmiştir.
+
+```{r resim24, echo=FALSE, fig.align = 'center',fig.cap=" Kaynak  Kobi Yasası İspanya Raporu, İspanya SBA Radar Grafiği", out.width = '50%'}
+
+knitr::include_graphics("docs/bookdown/figure/26.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+``` 
+
+İspanyanın sözkonusu kriterleri karşılama durumlarına bakıldığında, çoğu kriterde hemen hemen AB ülkelerinin ortalamasına ulaşmaktadır. İspanya finans alanında AB ortalamasının üzerindedir. Globalleşme alanında (Tablo23) İspanya’nın ortalamayı yakaladığı gözlemlenebilir. İspanya bu önde olduğu ve ortalamayı yakaladığı kriterlerin ardından girişimcilik, duyarlı yönetim, yetenekler ve yenilik alanlarında ortalamaların gerisinde kalmıştır. Bazı kriterlerin hesapları uygun verilerin temin edilememesi nedeniyle elde edilememiştir.
+
+Kriterlere göre İspanya’nın durumları ayrı ayrı aşağıda değerlendirilmiştir.[@xie2016]
+
+1.Girişimcilik :  Tablodan anlaşıldığı üzere İspanya’nın bu kritere göre AB ortalamasına oldukça yaklaştığı görülmektedir. Nüfusun yarısından azı girişimciliği bir fırsat olarak değerlendirmektedir. Avrupa birliği ülkelerine bakıldığında aynı oran yaklaşık olarak % 58’dir. Aynı istatistiğe göre girişimcilik sonucunda başarılı bir iş kurulabileceğine olan inancı olan kişi sayısının genele oranı %59’dur. Aynı oran Avrupa birliği ortalamalarında %69,4  olarak gerçekleşmiştir. İspanyanın kadın girişimciliği ülke genelinde yaygın olması önemli bir artıdır.
+
+2.İkinci Şans:  Bu veri tek gösterge ile elde edilmiş bir veri olup, İspanyolların ikinci bir şansa izin verme derecesi  AB vatandaşlarına göre daha düşüktür. İspanya %59 ile işletmelerine ikinci bir şans tanırken, AB vatandaşları %80 oranında işletmelerine şans tanımaktadır.
+
+3.Küçük Olanı Düşün : Bu kriterin değerlendirmesi yapılırken iki gösterge kullanılmıştır. Birincisi kobiler için mevcut düzenlemeleri destekleme derecesi, ikincisi ise idari yükümlülüklerini zamanında yerine getirebilmesi olarak belirlenmiştir. İlk gösterge ele alındığında İspanyada Kobilerin mevcut mevzuatları destekleme oranlarının (%44) ortalamanın (%29) üzerinde olduğu görülmektedir. Buna rağmen ikinci göstergeye bakıldığında prosedürleri yerine getirebilmek için ortalamanın iki katı zaman harcadıkları belirtilmektedir.
+
+4.Duyarlı yönetim : Bu kriterdeki gösterge sonuçları genellikle Avrupa ortalamasının altında gerçekleşmektedir. Sadece bazı göstergelerde ortalamanın üzerinde sonuçlar elde edilmiştir. İspanya’da işyerinin kurulum masrafları ortalamanın üzerinde ve kurulum süreci karışık gözükmektedir. İspanya’da herhangibir işyerinin işe başlaması için 47  gün harcanmaktadır. Bu zaman kaybı  AB ortalamasında  İspanyanın yarısı kadardır. Avrupa birliği ortalamasında bir işyerinin kurulması için 20 gün yeterlidir. Yeni bir işyeri kurmanın maliyeti kişi başına düşen  gelirin %15’ini oluşturmaktadır, Avrupa ortalamasında ise aynı oran %7 ‘dir. Aynı zamanda İspanya yeni istihdamın sağlanmasında mali külfetin en fazla olduğu ülkelerden biridir.
+
+5.Devlet Yardımları ve Kamu Alımları : Bu kritere göre iki göstergede İspanya için sonuçlar ortalamanın altındadır. Kamu alımlarında İspanya Kobilerinin payı %35, Avrupa ortalamasında ise % 42’dir. Aynı zamanda devletin Kobilere sağladığı yardım oranı %9, ortalamada ise %11 ‘dir.
+
+6.Finans: İspanya’nın AB ortalamasının üzerinde olduğu ve en güçlü performans gösterdiği kriterdir. İspanyada işletmelerin kuruluş döneminde yaptığı yatırımın  risk sermayesi sınırlı  olmasına rağmen, finans kaynaklarına erişim problemlerinin olmadığı gözlemlenmektedir. Finans kaynaklarına erişim problemi yaşayan kobiler İspanya’da % 11 iken AB ortalamasınının %21 ile ortalamanın altındadır. Bunula birlikte finans kaynaklarının geri ödeme oranlarına bakıldığında oldukça iyi koşullara sahip olduğu görülebilir. Geri ödenmeyen ana paralara bakıldığında, kullanılan kredilerin İspanya’da %20,  AB ortalamasında ise %50 olduğu görülür.
+
+7.Tek Pazar :  Kriterin iki göstergesine bakıldığında net bir sonuç elde edilememektedir.  İş yönergelerindeki   değişim  süreleri AB ülkelerine göre daha uzun sürmektedir. Fakat değiştirilmiş ve onaylanmış yönergelere bakıldığında ülke AB ortaklarına göre daha iyi oranlar elde etmiştir.
+
+8.Yetenekler ve Yenilik : Bu kriter için İspanya’nın pozisyonu ortalamanın altındadır. İspanya’da  10 - 250 kişi istihdam eden kobilerin %15 ‘lik kısmı online satın alma gerçekleştirebildiği belirtilmekteyken  aynı oran AB ortalamasında %28 ‘dir. Aynı zamanda internet üzerinden alınan siparişlerin sıklığına bakıldığında Avrupaki  işletmelere göre %50 daha az olduğu gözlemlenmektedir. Mikro işletmelerin sürekli mesleki eğitim, eğitim aktivitelerine katılım oranları açısından değerlendirildiğinde İspanya %22,5  (ortalama %47,5)  ile düşük performans sergilemektedir..
+
+9.Çevre  :  Kapsamlı enerji tasarrufu sistemlerine yatırım yapan kobilerin oranı  %5 ‘tir. Aynı oran AB ortalamasında % 4 ‘dür.  Basit enerji tasarrufu sistemlerine yatırım yapan kobi oranı %26 olarak gerçekleşirken, ortalamada %29 olarak gerçekleşmiştir. Son gösterge olarak çevreyi korumak için yapılan harcamalarda İspanya kobi başına 675 euro olarak gerçekleşirken, ortalama AB ülkelerinde 900 euro olarak gerçekleşmiştir.
+
+10.Globalleşme : Genel olarak bu kriterde İspanya AB ortalamlarıyla başabaş bir performans sergilemektedir. Veriler İspanya’nın  ithalat ve ihracat prosedürlerinin  AB ülkelerinin prosedürlerine göre daha etkili olduğunu göstermektedir. İthalat ve ihracat yapmak için İspanya’da ortalama süreler  9-10 , AB ortalmasında ise 13 gündür. Bunun yanında İspanya kobileri Avrupalı muadillerine göre daha az ortaklık kuma eğilimindedirler.
+
+## İspanya Kobileri Devlet Destekleri
+
+İspanyada kobilere yönelik destek programıyla ağırlıklı olarak DGPYME  (Directorate general of SME Policy ) adında sekreterlik bakmaktadır. Ayrıca İspanya ar-ge alanında CDTI  ( Ar-Ge merkezi ), ENİSA adında inovasyon merkezleri bulunmaktadır.
+
+### Kobilere yönelik inovasyon destek programı (İnnoEmprase, 2007-2013)	
+
+Son yıllarda İspanya Hükümeti ve otonom bölge hükümetleri Kobilere yönelik desteklere özel bir ilgi göstermektedir. Bu ilginin sebebi 	kobilerin istihdam yaratması ve ülke ekonomisine yaptığı katkıdır. Bu bağlamda Endüstri, Turizm ve Ticaret Bakanlığı Genel Sekreterliği Kobi Politikaları Genel Müdürlüğü  özellikle Kobiler için tasarlanmış  yardım planları ve devlet teşvik modelleri uygulamalarını yürütmektedir.
+
+Bakanlar kurulununun onayladığı 1579 sayılı Karaliyet kararnamesi ile  Kobilere sağlanan innovasyon desteği ve teşviğin işleyiş koşulları belirlenmiştir. Bu program İnnoEmpresa  adıyla anılmaktadır ve 2007 -2013 döneminde uygulamadadır. Bu Program Ocak 27, 2006 tarihinde İspanyol Hükümeti tarafından onaylanan İş Geliştirme Planı kapsamında üstlenilen taahhüt ile uyum sağlar.
+
+Bu program daha önce 2000-2006 yılları arasında yürürlükte olan program deneyimlerden yararlanarak önemli iyileştirmeleri birleştirmeyi amaç edinmiştir. Bunlardan en önemlisi işin inovasyon kapasitesiyle ilgili iyileştirmelerde yapılan önceliklendirmedir.
+
+İnnoEmprase programı 2007-2013 dönemlerindeki bütçesi 500 milyon eurodur. Bu fona ERFD nin Avrupa Bölgesel Kalkınma Fonu yaklaşık 105 euro destek sağlamıştır. Ayrıca bu fona otonom bölge hükümetleri de katkı sağlamaktadır.[@xie2026]
+
+İnnoEmprase programı tarım ürünleri de dahil olmak üzere endüstrinin tüm kolları, inşaat, turizm, hizmet sektörü konularını kapsamaktadır. Programında öngörülen yardım kalemleri Teknoloji ve Kalite innovasyonu, Örgütsel yenilik ve Gelişmiş yönetim, İşbirliğine yönelik yenilik projeleri olarak üç grupta toplanabilir.
+
+Potansiyel yararlanıcılar 
+
+-  Bir ve daha fazla çalışanı, inovasyon kapasitesi, büyüme potansiyeli olan kobiler 
+
+-  Aracı kurumlar ( özel veya resmi kobilerin   kaynaklarını etkin kullanamaları konusunda destek veren kuruluşlar)
+
+Yararlanıcılar aracı kuruluşlar ise destek kalemleri aşağıdaki gibidir:
+
+-  Gayri menkul edinimi hariç maddi ve gayri maddi yatırımlar, yatırım harcamaları, ofis ekipmanları, ulaştırma giderleri.
+Bu yatırım desteğinde  bölgelere yönelik destek programı miktarı 55 bin euroyu geçememektedir.
+
+-  Projeyle direkt ilişkili personel giderleri
+
+-  Danışmanlık, eğitim, projeyle ilgili diğer teknik ve danışmanlık giderleri
+
+-  Projenin yürütülmesi için elzem olan ulaşım giderleri
+
+-  Katma değer vergisi veya yararlanıcı tarafından karşılanan eşdeğeri vergi
+
+-  Bütçenin yüzde onunu aşmayan genel giderler
+
+Eğer yararlanıcılar kobiler ise yukarıda sıralanan kalemlerin (a,b,c) dahilinde destek verilebilmektedir.
+
+Türkiye’de olduğu gibi İspanyanın bölgelerinde destek oranları gelişmişlik düzeylerine göre oluşturulmuştur. Avrupa komisyonu tarafından hazırlanan ve İspanya hükümeti tarafından onaylanan destek oranları tablosu aşağıdadır.
+
+```{r resim25, echo=FALSE, fig.align = 'center',fig.cap=" Kaynak İnvest in spain.org,  İspanya Destek Oranları Tablosu", out.width = '60%'}
+
+knitr::include_graphics("docs/bookdown/figure/27.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+``` 
+
+
+### Kobilere finans destekleri
+
+İnnoEmprase programına ek olarak İspanyada kobiler kamu tarafından geliştirilmiş diğer yardım programlarına da başvurabilmektedirler. Bu yardımları dağıtan kuruluşlar  aşağıdadır.
+
+-	Resmi Kredi Kurumu (ICO, Instituto de Crédito Oficia, web: www.ico.es)
+-	Kobi Yabacı Yatırımcı Teşvik Fonu  (FONPYME, Fund for SME foreign investment operations, web: www.codifes.es/2fonpyme.html)
+
+Bu kuruluşlar işbirliği yaparak işletmelerin  proje giderlerini ve  likidite ihtiyaçlarını nasıl finanse edeceklerine dair bir anlaşma imzalamışlardır. Bu anlaşma topluma ve tüm ekonomik kesimlere yönelik politikalar üretmiştir. Örneğin  Resmi Kredi  Kurumu politika kalemlerine göre vadeler belirlemiştir. Sürdürülebilir yatırım kaleminde sektörlerde ayrımlara gidilirken, miktarlar müşteri başına 10 milyon euro kadardır, fakat bu paranın 2 milyon euroluk kısmında sübvansiyon uygulanmaktadır. 
+
+İşbirliği anlaşmasının iç ticaret kaleminde önemli destekler bulunmaktadır. Bu kalemde muhtemel yararlanıcılar kar amaçlı kobiler, ticaret odaları ve kamunun işlettiği işletmelerdir.  Yararlanıcı başına üst sınırları geçmemek şartıyla proje bedellerinin %80’i karşılanır. Yararlanıcı başına minimum 150 bin euro, maksimum ise 800 bin euro dolayında destek verilebilir. Programda uzun vadede ve seçenekli geri ödeme planları sunmaktadır. Verilen desteğin geri ödemelerinde işletmelere opsiyonlar sunulmaktadır.
+Geri ödemeli destek vadesi örneği ;
+
+-	5 yıl vadeli beş yıl geri ödemeli veya  bir yıl ödemesiz dört yıl geri ödemeli
+-	 7 yıl vadeli yedi yıl geri ödemeli veya  bir yıl ödemesiz yedi yıl geri ödemeli
+-	10 yıl vadeli on yıl geri ödemeli veya  üç yıl ödemesiz dört yıl geri ödemeli
+
+Ayrıca bir yıldan fazla süre faaliyet gösteren işletmeler diğer ICO (Resmi Kredi Kurumu ) kredilerine başvurabilmektedirler.
+
+Makina Techizat Alımı Kredisi : İki yüzbin euro makisimum limitle olmak üzere yararlanıcıların  endüstri makinaları, malzemeleri ve makina alımlarına ICO teminat sağlayabilmektedir. Ödeme süreleri maksimum yedi yıldır.
+
+Emlak Alımı : İnovasyon ofileri, iş istastasyonları, fabrikalar gibi emlak alımlarında ICO ikiyüzbin euroya kadar teminat sağlamaktadır.
+
+Yurt Dışına Açılma : Bu kalem için iki ayrı seçenek mevcuttur. Birincisi ICO tarafından sağlanan yurtdışı yatırımlarına yirmi yıla kadar vadelerle ve düşük faiz oranlarıyla verilen kredilerdir. İkincisi  yine ICO ‘ nun sahibi olduğu Axis FESsme fonudur. Bu fon işletmelere girişim sermayeleri sağlamaktadır.
+
+Sürdürülebilir Ekonomi  projeleri ve ar-ge : Verimliliği ve etkinliği arttırmayı, kaynakları verimli ve etkin kullanmayı amaçlayan ve aynı zamanda çevreci projelere ICO düşük faiz oranlarıyla kredi ve teminat vererek destek sağlamaktadır.
+
+### Diğer kobi destekleri
+
+İspanya Ulusal İnovasyon İşletmesi  (ENİSA) büyümeyi sürdürebilen ve yenilikçi olan işletmelere destek vermektedir. Genç girişimcilere, kobilere ve teknolojik yenilik içerikli projelere iş planı kapsamında yardımlar sağlamaktadır. Yardımların vadeleri, faiz oranları ve geri ödeme şekli program koşullarına göre değişmektedir.[@xie2026]
+
+- PROINVEX (büyük yabancı yatırım programı)
+
+- FIEX (COFIDES tarafından yönetilen Yabancı Yatırım Fonu)
+
+- FONPYME (KOBİ Dış Operasyonlar Yatırım Fonu, COFIDES)
+
+-	FIEM (Sanayi, Turizm Bakanlığı Kurumsal Uluslararasılaşma Fonu)
+
+- FINTEC, İNCE 
+
+ İspanya ayrıca yukarıda isimleri  belirtilen uluslararasılaştırmaya yönelik kobilere değişik alanlarda özel fonlar oluşturmuştur. 
+
+İspanya innovasyon ve ar-ge politikasını yürüten kuruluşların  faliyet alanlarına ilişkin bir tabloda  aşağıda verilmiştir. 
+
+```{r resim26, echo=FALSE, fig.align = 'center',fig.cap="Kaynak Country Report- IPREG, İspanya  İnovasyon ve Ar-ge Ana Aktörleri Faaliyet Alanları", out.width = '60%'}
+
+knitr::include_graphics("docs/bookdown/figure/28.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+``` 
+
+
+
+
+
+
+
+

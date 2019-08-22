@@ -1,0 +1,17 @@
+
+# Abstract
+
+**Smes Expert Thesis İn West European Countrys (Spain, Portugal)  and Turkey Goverment        Support Policies İnclined Smes and  Promotion Support Models **
+
+
+
+Small medium-sized enterprises (SMEs) is expanding their domains globalizing world and the economy of countries. Today’s world small medium-sized enterprises (SMEs) taking on new roles with the policies developed by states and the changes brought by these roles are analyzed in enterprises.  The purpose of this study is to guide policy makers and practitioners  to throw out suggestions with reference to support policy in Turkey and Western European Countries.
+
+İn this study to be introduced  the structure of the economies of these countries and government support the Western European countries, Turkey.  As a result of assessment of the situation support models will be proposed.
+
+```{r eval=FALSE}
+Anahtar Kelime :
+Smes
+Goverment İncentives
+
+```

@@ -1,0 +1,125 @@
+
+# Türkiye Kobilerinin Genel Yapısı
+
+Türkiye  diğer AB ülkeleri gibi sürdürülebilir büyümeyi   ve  istihdamı sağlamak için Kobilerden etkin bir şekilde yararlanmaktadır. Türk kobilerinin genel karakteristiği diğer ülkelere göre daha farklıdır. Örneğin orta ölçekli işletmeler Batı Avrupa ülkelerinde daha fazla oranlara sahipken, Türkiye’de orta ölçekli firmaların oranı daha azdır. Yoğunluk küçük işletmelerdedir. İşgücü açısından bakıldığında kobilerin katkısının önemi dahada artmaktadır. Toplam ülke işgücünün %75’lik kısmı Kobilerde istihdam edilmektedir.
+
+```{r resim34, echo=FALSE, fig.align = 'center',fig.cap=" Kaynak  Kobi Yasası Türkiye Raporu, Türkiye İşletme Yapıları", out.width = '70%'}
+
+knitr::include_graphics("docs/bookdown/figure/36.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+``` 
+
+
+Zamana göre kobi karakteristiğinin  nasıl değiştiğine ilişkin kriz yıllarına   ait verilerin elde bulunmaması nedeniyle analiz edilememektedir. Fakat  2003-2008 yıllarında kobilerin sayılarının ve ülke ekonomilerine katıkılarında artış  krize rağmen görülmektedir.
+
+Türkiye girişimcilik ve duyarlı yönetim kriterleri dışında AB ortalamalarının dışında performans sergilemektedir. Çevre kriterine göre verilerin  yetersizliği nedeniyle herhangibir değerlendirme yapılmamıştır.
+
+Kriterlere göre Türkiye’nin durumu kriter bazında ayrı ayrı aşağıda değerlendirilmiştir.[@xie2018]
+
+	
+1.Girişimcilik : Girişimcilik kriterinde Türkiye’nin gösterdiği performans orlamanın üzerindedir ve yaklaşık olarak ortalamnın iki katıdır. 
+	
+```{r resim35, echo=FALSE, fig.align = 'center',fig.cap="Kaynak  Kobi Yasası Türkiye Raporu, Türkiye İşletme Sayıları", out.width = '70%'}
+
+knitr::include_graphics("docs/bookdown/figure/37.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+``` 
+
+
+```{r resim36, echo=FALSE, fig.align = 'center',fig.cap="Kaynak  Kobi Yasası Türkiye Raporu, Türkiye Kobilerinin İşgücüne Katkısı", out.width = '70%'}
+
+knitr::include_graphics("docs/bookdown/figure/38.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+``` 
+
+```{r resim37, echo=FALSE, fig.align = 'center',fig.cap="Kaynak  Kobi Yasası Türkiye Raporu,  Türkiye Kobilerinin  Katma Değer Etkileri", out.width = '70%'}
+
+knitr::include_graphics("docs/bookdown/figure/39.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+``` 
+
+```{r resim38, echo=FALSE, fig.align = 'center',fig.cap=" Kaynak Türkiye Kobi Yasası, Türkiye SBA Radar Grafiği", out.width = '50%'}
+
+knitr::include_graphics("docs/bookdown/figure/40.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+``` 
+
+Küçük ve Orta Boylu İşletmeleri Geliştirme İdaresi Başkanlığı’nın düzenlediği 60 saatlik standard girişimcilik eğitimini  20448 kişi 2010 yılı ve 2011 yılı ilk çeyreğinde katılmıştır. Kosgeb’in belediyeler, odalar, işkur ile düzenlediği eğitimler sonucunda katılımcılar girişimcilik destek programına müracaat edebilmektedirler. Ayrıca YÖK ile yaptığı protokol kapsamında üniversitelerde girişimcilik bilincinin ve kültürünün yaygınlaştırılmasını amaçlamaktadır. 
+
+İŞKUR ile ortaklaşa yürütülen Eylül 2010 yılında başlatılan  girişimcilik eğitiminde  başka geliri olmayan işsiz  girişimcilere eğitim süresi boyunca  günlük  ihtiyaçlarını karşılayacak tutarda ödeme yaparak katılımları teşvik etmektedir. Ayrıca sertifika sahiplerinden bayanlara ve özrülü girişimcilere %10  destek oranı ek olarak sağlanmaktadır.
+
+2.İkinci Şans : Türkiye bu kritere göre ortalamanın gerisinde sonuçlara sahiptir. Bu sonuca yeniden girişim yapan vatandaşlara uygun koşullar sağlayamamasının etkisi önemli miktardadır. Ayrıca işin kurulma aşamasının uzun sürmesi ve maliyetli olması da  pay sahibidir.
+
+3.Küçük Olanı Düşün : Bu yasa kriterine göre ülke  AB ortalamalarının gerisinde kalmaktadır. Bu kriterin değerlendirmesi üç gösterge dikkate alınmıştır ve ortalamanın gerisinde sonuç elde edilmesinin nedeni sadece bir göstergedir. Diğer iki gösterge ortalama yakın değerler taşımaktadır. Bununla birlikte ülkenin lisans ve izin sitemleri prosesleri karmaşıktır. Buna rağmen bu yönetmelikler Kobiler tarafından aşırı bir yük olarak değerlendirilmektedir. Politika tarafında ise ilgili kurum ve kuruluşlarla birlikte Kobi Stratejisi Planını  Avrupa Kobi Yasasına uygun şekilde değiştirilmiştir.
+
+4.Duyarlı yönetim : Ülke performansı bu kritere göre farklı bir profil çizmektedir. Örnek olarak işe başlama maliyetleri yüksektir ve online servislere ulaşım gibi iş döngüsünün devam etmesinde kilometre taşı olan göstergeler ortalamayla yakın değerlere sahiptir. Ayrıca KOSGEB destek iş akışlarını , internet sitesini basitleştirerek verilere kolay ulaşım sağlamıştır.
+
+5.Devlet Yardımları ve Kamu Alımları : Bu kritere göre tek gösterge ön elektronik ilandır ve ülke ortalamaların altında yer almaktadır. Buna rağmen kriterin genel durumunu ortaya çıkarabilecek veriler bulunmamaktadır.
+
+Devlet Planlama Teşkilatı 2010 yılında bölgesel kalkınma ajansları açmıştır. Bu yeni kurulan ajanslarla birlikte kobilere yeni destekler ve iş geliştirme projelerini uygulamaya geçirmiştir.
+
+6.Finans :  Bu kritere göre veri yetersizliğinden dolayı herhangi bir çıkarım yapmak mümkün değildir. Politika tarafında 2010 yılında Kosgeb tarafından acil destek kredisi düzenlenmiştir. Doğal afetlerden etkilenen kobilere üst limiti 100.000 lira kredi sağlanmıştır. Kredi faizi kosgeb tarafından karşılanmak üzere altı ay ödemesiz yirmi dört ay geri ödemeli bir kredidir.
+
+7.Tek Pazar : Bu kritere göre değerlendirme yapacak veri bulunmamaktadır.
+
+8.Yetenekler ve Yenilik : İşletmelerin yenilikçi çözümler üretmek için  işbirliği olanaklarını kullanma oranları düşüktür. AB ortalamasında işbirliği oranları %11 iken ülkenin oranı %5 dir. Online ticaret alanında gösterge olarak alındığında gelişmiş bir performans göstermemektedir. E-ticareti ülkede her on kobiden biri gerçekleştirebilirken, ortalamada dört kobi gerçekleştirebilmektedir. 
+
+Politika tarafında ise Kosgeb yeni Ar-ge desteğiyle süreçleri kolaylaştırarak kobilerin endüstriyel uygulamalarda yenilikler, teknoloji ve inovasyon bazlı iş çözümlerine başvuru imkanlarını kolaylaştırmıştır. 
+
+10.Çevre : Politika tarafında  Kosgeb enerji verimliliği desteğiyle kobilere 30000  lira  tutarında destek programı düzenlemiştir. Desteğin sağlanmasında yörelere göre farklı oranlar uygulanmaktadır. Ayrıca Kosgeb AB fonları ve uluslararası kuruluşlar ile  birlikte projelerde ortak olarak yer almıştır.
+
+11.Globalleşme : Ülkenin bu kriterin hemen hemen tüm göstergelerinde ortalamaların gerisinde sonuçları bulunmaktadır. Diğer ülkelere göre ihracat ve ithalat  için gerekli resmi evrak sayısı ve maliyetler oldukça fazladır. Örneğin ithalat yapmak için ülkede 8 evrak gerekliyken, ortalamada 5 evrakla ithalat yapılabilmektedir.
+
+## Kosgeb Destekleri 
+
+15.06.2011 tarih 27612 sayılı resmi gazetede yayınlanan Kosgeb Destek Programları yönetmeliğine göre yürürlüğe giren yedi adet destek programı bulunmaktadır. Bu programlar Genel Destek Programı, Kobi Proje Destek Programı, Tematik Proje Destek Programı, İşbirliği Güçbirliği Destek Programı,  Ar-Ge, İnovasyon ve Endüstriyel Uygulama Destek Programı, Girişimcilik Destek Programı, Gelişen İşletmeler Destek Programı’dır. Ayrıca veri tabanına kayıtlı kobilerin kredi faiz desteği yönetmeliği kapsamında kredi kullandırmakta ve kobilerin test analiz ihtiyaçları labaratuvar bulunan merkez müdürlüklerindeki labaratuvarlarda karşılanmaktadır.
+
+Genel Destek Programı : Genel Destek Programı: KOBİ’lerin yönetim becerilerini ve kurumsal yetkinliklerini geliştirmek amacıyla eğitim, danışmanlık, yurt içi fuarlara katılım, yurt dışı iş gezisi, tanıtım, eşleştirme, istihdam, enerji verimliliği, tasarım, sınai mülkiyet, belgelendirme, bağımsız denetim, test-analiz ve kalibrasyon 
+desteklerini içermektedir.Program kapsamında verilen desteklerin tamamı geri ödemesiz destekler olup destek isimleri ve üst limitleri aşağıda listelenmiştir.
+
+```{r resim39, echo=FALSE, fig.align = 'center',fig.cap="Kaynak Kosgeb Faaliyet Raporu 2011, Genel Destek Programı Kalemleri", out.width = '60%'}
+
+knitr::include_graphics("docs/bookdown/figure/41.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+``` 
+
+Destekleme oranı birinci ve ikinci teşvik bölgelerinde %50, üçüncü ve dördüncü teşvik bölgelerinde %60’tır. 2011 yılında KOBİ’lerin Türk Ticaret Kanunu’nu ile getirilen yeniliklere uyum sağlamaları aynı zamanda kurumsallaşmalarına destek olmak amacıyla; Sermaye Piyasası Kurulu tarafından bağımsız denetimle yetkilendirilen kuruluşlardan alacakları bağımsız denetim hizmeti giderlerine Bağımsız Denetim Raporunun olumlu yada şartlı görüş içermesi durumunda destek verilmesine yönelik olarak Genel Destek Programına 13. Destek olarak Bağımsız Denetim Desteğioluşturularak ilave edilmiştir.
+
+Kobi Proje Destek Programı : KOBİ Proje Destek Programı: İşletmelere özgü sorunların işletmeler tarafından projelendirildiği ve projelendirilen maliyetlerin desteklenebildiği destek programıdır. Buprogramla, belirli amaç ve hedefler doğrultusunda yürütülecek faaliyet adımlarını ve başarı ölçütlerini tanımlayabilen rekabetçi ve büyüme potansiyeline sahip KOBİ’ler daha nitelikli  desteklere erişme imkânı bulmaktadır. Programın amacı, KOBİ’lerde proje kültürü ve bilincinin oluşturulması, işletmelerin proje yapabilme kapasitelerinin geliştirilmesi ve esnek destekleme sistemine olan ihtiyacın karşılanmasıdır.
+
+Program kapsamındaki projeler için KOSGEB desteğinin üst limiti 150.000 TL olup, proje harcamaları birinci ve ikinci teşvik bölgelerinde %50, üçüncü ve dördüncü teşvik bölgelerinde %60 oranında geri ödemesiz olarak desteklenmektedir.
+
+Tematik Proje Destek Programı :  Program, Çağrı Esaslı Tematik Program ile Meslek Kuruluşu Proje Destek Programı olmak üzere iki alt programdan oluşmaktadır. 
+
+- Çağrı Esaslı Tematik Programı’nda, makro strateji dokümanlarında işaret edilen öncelikler dikkate alınarak KOSGEB tarafından belirlenen tematik alanlarda bölgesel ve sektörel ihtiyaçların karşılanması için KOBİ’lerin kendi işletmelerini geliştirmeye yönelik projeleri ve  meslek kuruluşlarının KOBİ’lerin geliştirilmesine yönelik projeleri desteklenmektedir. Sunulabilecek projelerin hedef kitlesi, bütçesi, KOSGEB destek limiti, proje başvuru dönemi ve yerleri KOSGEB tarafından ilan edilen çağrılarda belirtilmektedir.
+
+- Meslek Kuruluşu Proje Destek Programı’nda, bir çağrıya bağlı olmadan, meslek kuruluşlarının KOBİ’lerin ve/veya girişimciliğin geliştirilmesi için hazırladıkları projeler desteklenmektedir. Bu programda destek üst limiti 150.000 TL olup, proje harcamaları birinci ve ikinci teşvik bölgelerinde %50, üçüncü ve dördüncü teşvik bölgelerinde %60 oranında geri  ödemesiz olarak desteklenmektedir.
+
+İşbirliği Güçbirliği Destek Programı :  İşbirliği Güçbirliği Destek Programı: KOBİ’lerin tedarik, pazarlama, düşük kapasite kullanımı, rekabet gücü zayıflığı, finansman başta olmak üzere tek başlarına çözümünde zorlandıkları ortak sorunlara “ortak çözümler” üretmek için bir araya gelerek hazırladıkları işbirliği-güçbirliği projelerinin desteklendiği programdır. KOBİ’lerin bir araya gelerek kapasite ve rekabet gücü yüksek işletmelere dönüşmesi, ölçek ekonomisinden yararlanılarak kaynak tasarrufu sağlanması ve KOBİ’ler arasında ortaklık ve işbirliği kültürünün geliştirilmesi amaçlanmaktadır.[@xie2028]
+
+Program kapsamındaki işbirliği - güçbirliği projeleri için KOSGEB destek üst limiti geri ödemesiz destekler için 250.000 TL, geri ödemeli destekler için ise 500.000 TL olup proje harcamaları birinci ve ikinci teşvik bölgelerinde %50, üçüncü ve dördüncü teşvik bölgelerinde %60 oranında desteklenmektedir.
+
+Ar-Ge, İnovasyon ve Endüstriyel Uygulama Destek Programı : Bilim ve teknolojiye dayalı yeni fikir ve buluşlara sahip KOBİ ve girişimcilerin geliştirilmesi, teknolojik fikirlere sahip tekno-girişimcilerin desteklenmesi, KOBİ’lerde Ar-Ge bilincinin yaygınlaştırılması ve Ar-Ge kapasitesinin artırılması, mevcut Ar-Ge desteklerinin geliştirilmesi, inovatif faaliyetlerin desteklenmesi ve Ar-Ge ve inovasyon proje sonuçlarının ticarileştirilmesi ve endüstriyel uygulamasına yönelik destek mekanizmalarına olan ihtiyacın karşılanması amaçlanmaktadır.
+
+ -Ar-Ge / inovasyon projesi; KOSGEB kurullarınca uygun görülen KOBİ’lere, TEKMER’lerde  ücretsiz işlik tahsis edilmekte, işlik tahsis edilmeyenler için kira desteği verilmektedir. Projede yer alan makine-teçhizat, donanım, hammadde, yazılım ve hizmet alımı, danışmanlık, eğitim, tanıtım, yurtdışı kongre, konferans, fuar ziyaret ve teknolojik işbirliği ziyaret, test-analiz ve belgelendirme, sınai mülkiyet ve fikri mülkiyet hakları tescili, başlangıç sermayesi giderleri ile projede çalışan personel giderleri için 200.000 TL’si geri ödemeli olmak üzere toplam 532.000 TL (üst limit) destek verilmektedir.
+
+-Endüstriyel uygulama projesi; KOSGEB kurullarınca uygun görülen KOBİ’lere; kira desteği, projede yer alan makine-teçhizat, donanım, sarf malzemesi, yazılım ve tasarım giderleri ile proje kapsamında yeni istihdam edilecek personel giderleri için 200.000 TL’si geri ödemeli olmak üzere 468.000 TL (üst limit) destek verilmektedir. Aşağıda belirtilen projeler endüstriyel uygulama projelerinin kapsamını oluşturmaktadır: 
+
+- Kamu kaynakları ile desteklenerek başarıyla tamamlanmış Ar-Ge/inovasyon projesi sonucunda ortaya çıkan yeni bir ürün/hizmetin ticarileştirme projeleri.
+-  Patent belgesi ile korunan yeni bir ürün/hizmetin ticarileştirme projeleri.
+- Doktora çalışması neticesinde ortaya çıkan yeni bir ürün/hizmetin ticarileştirilmesine yönelik projeler.
+
+Destekleme oranı tüm bölgeler için %75 olup, Ar-Ge İnovasyon Programı altında yer alan Başlangıç Sermayesi Desteği için %100’dür.
+
+Girişimcilik Destek Programı : Girişimcilik eğitimini başarıyla  tamamlayan işletmelere Yeni Girişimci Desteği kapsamında 27.000 TL geri ödemesiz ve 70.000 TL geri ödemeli destekten oluşmaktadır. Yeni Girişimci Desteğinde destek oranı 1. ve 2. bölgeler için % 60, 3. ve 4. bölgeler için %70’tir. 
+
+Kuruluş dönemi makine, teçhizat ve ofis donanım desteği  kapsamında; desteğin başlangıç tarihinden itibaren 12 ay içinde satın alınacak makine, teçhizat ve ofis donanımları için geri ödemesiz olarak verilen bu desteğin üst limiti 10.000 TL’dir.
+
+İşletme giderleri desteği kapsamında; desteğin başlangıç tarihinden itibaren 24 ay içinde gerçekleşen işletme giderlerine yönelik geri ödemesiz olarak ödenecek desteğin üst limiti her ay için 1.000 TL olmak üzere, toplam 12.000 TL’dir.  Personel net ücretleri ve elektrik, su, ısıtma, telekomünikasyon, işyerinde üretim amaçlı kullanılan makinelere ait yakıt giderlerine ilişkin harcamalar giderler olarak sayılır.
+Sabit yatırım desteği kapsamında; desteğin başlangıç  tarihinden itibaren 24 ay içinde satın  alınacak, makine ve teçhizat için teminat karşılığı geri ödemeli olarak verilen bu desteğin üst limiti 70.000 TL’dir.
+
+Gelişen İşletmeler Piyasası KOBİ Destek Programı:  Bu destek programı ile gelişme ve büyüme potansiyeline sahip küçük ve orta ölçekli işletmelerin; İstanbul Menkul Kıymetler Borsası (İMKB) Gelişen İşletmeler Piyasası’nda işlem görmesinin sağlanması, sermaye piyasalarından fon temin edilmesine imkan sağlanması amaçlanmaktadır. 
+
+Piyasa Danışmanı Danışmanlık Hizmet Bedeli (azami 2 yıl) destek ödemesi üst limiti 60.000 TL destek oranı %75, Bağımsız Denetim Hizmeti Bedeli destek ödemesi üst limiti 20.000 TL %75, SPK kurul kaydına alma ücreti, İMKB Gelişen İşletmeler Piyasası Listesine Kabul Ücreti, Merkezi Kayıt Kuruluşu Masrafı destek ödemeleri üst limiti 10.000 TL destek oranı % 100 ve Aracı Kuruluşa Ödenecek Aracılık Komisyonu destek ödemesi üst limiti 10.000 TL destek oranı ise %75’dir.
+
+

@@ -1,0 +1,100 @@
+# Portekiz Genel Ülke Bilgileri
+
+```{r resim10, echo=FALSE, fig.align = 'center', out.width = '100%'}
+
+knitr::include_graphics("docs/bookdown/figure/12.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+```
+
+Portekiz, ya da resmî adıyla Portekiz Cumhuriyeti (Portekizce: República Portuguesa) Avrupa’nın güneybatısında İber Yarımadası üzerinde yer alan, Avrupa Kıtası'nın en batısındaki ülkedir. Portekiz kuzeyden ve doğudan İspanya ile, güneyden ve batıdan da Atlas Okyanusu ile çevrilidir. Atlas Okyanusu’nun kuzey yarımküredeki bölümünde bulunan Azorlar ve Madeira takımadaları özerk yönetimleriyle birlikte Portekiz’in birer parçasıdır.
+
+Portekiz, parlamenter demokrasi ile yönetilmektedir. Dört ana yönetim bileşeni; Cumhurbaşkanı, Parlamento, Hükümet (Başbakan başkanlığında) ve mahkemelerdir. Anayasaya göre yasama, yürütme ve yargı dalları arasında güçler ayrılığı ilkesi vardır. Portekiz, 308 belediye (Portekizce: çoğul/ tekil: concelho / concelhos) ve 4.000’den fazla bucak adı verilen (Portekizce: çoğul/ tekil: freguesia / freguesias) idari bir yapıya sahiptir. Belediyeler idari açıdan altbölge ve bölgelere bağlanır. 1976 yılından beri en üst idari yapı “Anakara Portekizi” ile Azorlar ve Madeira özerk bölgeleridir. Anakara Portekizi’ndeki belediyeler 18 bölge altında toplanmıştır.[@xie2031] Söz konusu bölgeler şunlardır: Aveiro, Beja, Braga, Bragança, Castelo Branco, Coimbra, Evora, Faro, Guarda, Leiria, Lizbon, Portalegre, Porto, Santarém, Setúbal, Viana do Castelo, Vila Real ve Viseu (Her bölgenin başkenti aynı ismi taşımaktadır). Adalarda bölgesel hükümetler mevcuttur. Avrupa Birliği'nin istatistikler için bölge birimleri sistemi de kullanılmaktadır. Bu sisteme göre Portekiz, 7 bölge (Azorlar özerk bölgesi, Alentejo bölgesi, Algarve bölgesi, Orta bölge, Lizbon bölgesi, Madeira özerk bölgesi ve Kuzey bölge) ve bu bölgelere ait 30 alt bölgeye bölünmüştür.[@xie2022]
+
+## Portekiz Sosyal Göstergeler
+
+Portekiz Ulusal İstatistik Ofisi 2011 verilerine göre nüfus 10.6 milyon kişidir. Nüfusun  %47’i  erkek, % 53 bayandır. Nüfusun büyük bölümü ana kıtada ve daha çok sahil kesimlerinde yaşamaktadır.
+
+```{r resim11, echo=FALSE, fig.align = 'center',fig.cap="Kaynak  Portekiz İstatistik Ofisi, Portekiz  Nüfus Yapısı", out.width = '65%'}
+
+knitr::include_graphics("docs/bookdown/figure/13.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+```
+
+
+Oecd verilerine göre İspanya’ya benzer şekilde Portekizde işsizlik oranları rakamlarında artış gözükmektedir. Toplam nüfusun 2010 yılında (Tablo 12 ) işsizlik oranı % 10’a kadar artmıştır. Popülasyonun 25-54 yaş arasında kesiminin  % 80’i istihdam edilmiştir.  Dolayısıyla Portekiz işgücü istatistiklerine bakıldığında nüfusun genç, aktif bir yapısının olduğu anlaşılmaktadır.[@xie2029]
+
+Aicep Global Portekiz ülke verilerine göre çalışanların sektör dağılımları İspanya’ya benze şekilde hizmet sektörü üzerine yoğunlamıştır. Tarım ve hayvancılıkla geçimini sağlayan popülasyonun oranı (Tablo 11) yüzse % 10 civarındadır.
+
+```{r resim12, echo=FALSE, fig.align = 'center',fig.cap=" Kaynak aicep Portugal Global, Portekiz Nüfusunun Sektörlere dağılımı", out.width = '50%'}
+
+knitr::include_graphics("docs/bookdown/figure/14.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+```
+
+```{r resim13, echo=FALSE, fig.align = 'center',fig.cap=" Kaynak Oecd Portekiz İstatistikleri,  Portekiz İşsizlik Rakamaları", out.width = '70%'}
+
+knitr::include_graphics("docs/bookdown/figure/15.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+```
+
+## Portekiz Ekonomik Göstergeler
+
+Portekiz dünya ticaret haritası verilerine (Tablo14) bakıldığında   İspanya ekonomisine benzer şekilde dış ticaret açığı veren bir ülkedir.  Portekizin ticaret ortaklarının ve gobal talebin kademeli olarak artmasıyla 2010 yılında gayri safi milli hasılada önemli bir artış gerçekleşmiştir.
+
+Portekiz ekonomisi için yüksek seviyede dış borç, aşırı derecede kamu açığı ve düşük seyreden ekonomik eğilim nedeniyle İMF ve AB yarımları 2011 Nisan ayında gündeme gelmiştir. Uyum programına göre 2013 yılına kadar sürdürülebilir ekonomik[@xie2015] kalkınmayı sağlamak, ekonomiyi olumsuz yönde etkileyen faktörleri kaldırmak, teşvik ve istihdam politikları kilometre taşları olarak belirlenmiştir. Tüm bu  programlara rağmen ekonomik faaliyetlerde 2011 yılında  %1.6 (tablo 13) düşüş meydana gelmiştir ve bu düşüşün artarak % 3,3 olarak gerçekleşeceği  tahmin edilmektedir . 2013 yılında  ağırlıkla ihracat gücüyle desteklenecek % 0.3 oranında bir  toparlanmayla beraber ekonomideki eski olumsuz performansı yenebilecek kadar atılım yapması beklenmektedir. Bu oranın düşük kalmasına rağmen en azından ekonominin üzerindeki kısıtlayıcı etkileri dengeleyecilecek kadar olması öngörülmektedir
+
+```{r resim14, echo=FALSE, fig.align = 'center',fig.cap="Kaynak aicep Portugal Global, Portekiz Ekonomisi  Göstergeleri", out.width = '70%'}
+
+knitr::include_graphics("docs/bookdown/figure/16.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+``` 
+
+2010 yılı  boyunca ve 2011 başlarında Euro bölgesindeki borç krizi ülkenin finans kaynaklarına erişimini olumsuz yönde etkilemiştir. Buna rağmen ülke  2010 ve 2011  yılında önemli bir artışla yılı tamamlamıştır. Uluslararası talep ve ana ticaret ortaklarının ekonomilerindeki  yeniden toparlanma sayesinde bu artışın olduğu bilinmektedir. Ana ticaret ortaklarındaki bu toparlanma 2009 yılının sonunda  başlamasına rağmen Portekiz ekonomisine 2010 yılında  etkisini göstemiştir.
+
+Portekizin ihracat yaptığı ülkelere bakıldığında İspanya ile % 25 oranla ilk sıradadır. İkinci Almanya % 13,6 , üçüncü sırada % 12 oranla Fransa gelmektedir. Angola % 5,5,  İngiltere % 5,1,  Hollanda, İspanya, İtalya , Amerika Birleşik Devletleri bu sırayı takip etmektedir.
+
+```{r resim15, echo=FALSE, fig.align = 'center',fig.cap="Kaynak aicep Portugal Global, Portekiz Dış Ticaret Dengesi", out.width = '70%'}
+
+knitr::include_graphics("docs/bookdown/figure/17.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+``` 
+
+
+Portekiz  ihracatının önemli bir kısmı olan % 14,5’lik tutarını makina ve araçlar  kalemi oluşturmaktadır. Araçlar ve diğer ulaşım materyalleri ihracatın % 13 lük kısmını oluşturup, akaryakıt ve ana metaller şeklinde sıralanmaktadır. İtalat kalemleri[@xie2015] ise  akaryakıt % 18, makina ve araçlar  % 15, araçlar ve diğer ulaşım materyalleri %10 ve tarımsal ve kimyasal ürünler olarak sıralanmaktadır.
+
+```{r resim16, echo=FALSE, fig.align = 'center',fig.cap=" Kaynak aicep Portugal Global,  Portekiz Ticaret Partnerleri", out.width = '70%'}
+
+knitr::include_graphics("docs/bookdown/figure/18.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+``` 
+
+
+Global rekabet edebilirlik raporuna göre Portekiz dünya genelinde  (Tablo 18 ) 2010-2011 verilerine göre 46. sırada yer almaktadır. 2011- 2012  sıralamasına göre ise bir basamak yükselerek 45. Sıraya yükselmiştir. Türkiye ise aynı dönemlere göre 61. Sıradan 59. Sıraya yükselmiştir.
+
+Son beş yılda doğrudan yabancı sermaye girişlerinin 30, 40 milyar euro civarında  gerçekleştiği ve artış eğiliminde olduğu görülmektedir. 2011 yılında 39 milyar dolar direkt yabancı sermaye girişi olduğu ve bir önceki yıla göre aynı seviyede gerçekleştiği görülmektedir.
+
+```{r resim17, echo=FALSE, fig.align = 'center',fig.cap=" Kaynak aicep Portugal Global, Portekize Gelen   Doğrudan Yabancı Yatırım", out.width = '70%'}
+
+knitr::include_graphics("docs/bookdown/figure/19.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+``` 
+
+Portekiz’in yaptığı doğrudan yabancı yatırımları 8 ila 15 milyar euro aralığında değişmektedir. Tablolardan görüldüğü üzere 2010 yılına göre  yatırım miktarında %60[@xie2015]
+oranında bir artış gerçekleşmiştir.Bu  yatırım 
+
+```{r resim18, echo=FALSE, fig.align = 'center',fig.cap=" Kaynak aicep Portugal Global, Portekizden Çıkan Yabancı Sermaye ", out.width = '80%'}
+
+knitr::include_graphics("docs/bookdown/figure/20.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+``` 
+
+tutarları  sektörlere dağılımına bakıldığında İspanya şirketlerinin en çok yatırım yaptığı alanlar sigortacılık ve finans sektörleridir.
+
+```{r resim19, echo=FALSE, fig.align = 'center',fig.cap="Kaynak The Global Competitiveness Report, Portekiz  Rekabet Ederbilirlik Endeksi 2010–2011", out.width = '80%'}
+
+knitr::include_graphics("docs/bookdown/figure/21.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+``` 
+
+
+

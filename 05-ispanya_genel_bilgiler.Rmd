@@ -1,0 +1,97 @@
+# İspanya Genel Ülke Bilgileri
+
+```{r resim0, echo=FALSE, fig.align = 'center', out.width = '100%'}
+
+knitr::include_graphics("docs/bookdown/figure/11.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+```
+
+İspanya (İspanyolca:  España (yardım•bilgi), /esˈpaɲa/) ya da resmî adıyla İspanya Krallığı (İspanyolca: Reino de España) Avrupa'nın güneybatısında, İber Yarımadası'nda yer alan bir Akdeniz ülkesidir. Güneyde ve doğuda Akdeniz'e, kuzeyde ise Atlantik Okyanusu'na kıyısı vardır. Batıda Portekiz, kuzeyde Fransa, Andorra ve güneyde Birleşik Krallık'a bağlı Cebelitarık ile komşudur. İspanya toprakları ayrıca Akdeniz'de Balear Adaları, Atlantik Okyanusu'nda Kanarya Adaları'nı ve Kuzey Afrika'da Ceuta ve Melilla adlı iki özerk şehri kapsar. 504.712 km2'lik alanıyla İspanya, Fransa'dan sonra Batı Avrupa'daki ikinci büyük ülkedir. 650 metrelik ortalama yüksekliği ile de İsviçre'den sonra Avrupa'daki ikinci yüksek ülkedir.
+
+İspanya parlamenter demokrasi şeklinde örgütlenmiş bir anayasal monarşi rejimi ile yönetilir. İspanya 1986'dan beri Avrupa Birliği'nin 1982'den beri NATO'nun bir üyesidir. Başlıca önemli şehirleri Barselona (1,6 milyon), Valencia (810 bin), Sevilla (700 bin), Zaragoza (670 bin),Malaga (570 bin)‘ dir.[@xie2030]
+
+
+Ülke; kentler, eyaletler ve özerk bölgelere ayrılmıştır. İspanya’da idari açıdan 17 özerk bölge (Endülüs,Aragon, Asturya, Kastilya-La Mancha, Valensiya, Extremadura, Galiçya, Rioja, Madrid, Murcia, Navarra, Balear Adaları, Bask Ülkesi, Kanarya Adaları, Kantabriya, Kastilya ve Leon ve Katalunya) ile KuzeyAfrika kıyısında 2 özerk şehir (Ceuta ve Melilla) bulunmaktadır. Yedi özerk bölgenin her biri (Asturias,Balearic Adaları, Cantabria, La Rioja, Madrid, Murcia, ve Navarre) aynı zamanda bir ildir. Her özerkbölge kendi yasalarını uygular. Devlet bunları tanımanın yanısıra kendi yasal düzenlemesinin bir parçası olarak korumaktadır.[@xie2021]
+
+
+## İspanya Sosyal Göstergeler
+
+İspanya Ulusal İstatistik Ofisi (INE) verilerine göre 4 Nisan 2011 tarihi itibariyle ülke nüfusu 47,1 milyondur. Nüfusun %49,3’i erkek ve %50,7’i kadındır. Ayrıca ülke nüfusunda önemli miktarda yabancı kökenli göçmenler bulunmaktadır. Beş milyon civarındaki bu insanlar ülkeye göç yoluyla gelmekte ve İspanyanın nüfus yapısını değiştirmektedir.
+
+
+```{r resim1, echo=FALSE, fig.align = 'center',fig.cap=" . Kaynak Instituto Nacional de Estadistica (İspanya Ulusal İstatistik Ofisi), İspanya Genel Nüfus Dağılımı", out.width = '70%'}
+
+knitr::include_graphics("docs/bookdown/figure/2.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+```
+
+İspanya’nın 2011 yılında 30  milyon dolaylarında 16 yaş üstü bir işgücüne sahip olduğu ve bunun çoğunluğunu (Tablo 2) genelde orta yaş grubunun oluşturduğu görülmektedir. Oecd verilerine göre İspanyada işsizlik oranı 2011 yılında %20’ dir ve rakam olarak  9 milyon işsize tekabül etmektedir.[@xie2024]
+
+İşsizliğin artmasındaki en önemli faktör ülkenin rekabet edebildiği  sektörlerinin daralmasıdır.  İspanya göç alan bir ülke olması nedeniyle çalışan nüfus da gittikçe gençleşmektedir ve dolayısıyla işsizlik artmaktadır.[@xie2024]
+
+
+```{r resim2, echo=FALSE, fig.align = 'center',fig.cap=" Kaynak Instituto Nacional de Estadistica (İspanya Ulusal İstatistik Ofisi), İspanya Genel Yaşa Göre Nüfus D.", out.width = '70%'}
+
+knitr::include_graphics("docs/bookdown/figure/3.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+```
+
+```{r resim3, echo=FALSE, fig.align = 'center',fig.cap=" Oecd 2012 verileri İspanya İşsizlik Oranları", out.width = '40%'}
+
+knitr::include_graphics("docs/bookdown/figure/4.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+```
+
+## İspanya Ekonomik Göstergeler
+
+İspanya ekonomisi 2011 dünya bankası istatistiklerine göre dünya sıralamasında gayri safi yurtiçi hasıla baz alındığında 12. sırada yer almaktadır. Aynı istatistiklere göre Türkiye 17. sırada, Portekiz 37. sıradadır. [@xie2023]
+
+İspanya dünya ticaret haritası verilerine (Tablo 4) bakıldığında  dış ticaret açığı veren bir ülkedir. Genç ve iyi eğitimli nüfusuyla rekabetçi bir ülke olarak gözükmektedir. Türkiye ekonomisi ile rekabetçilik, tış ticaret dengeleri ve ekonomik
+gelişimleri göz önüne alındığında benzer yapılar sergilemektedir. Her iki ülkede  globalleşme ve rekabet koşullarının ağırlaşmasıyla işsizlik sorunları baş göstermiş. Aynı şekilde iki ülke de özelleştirme politikalarını hemen hemen aynı dönemlerde uygulamaya geçirmesiyle benzer süreçlerden geçmişlerdir.
+
+	
+```{r resim4, echo=FALSE, fig.align = 'center',fig.cap=" Kaynak World Trade Maps, İspanya Ticaret Performansı (USD 1000)", out.width = '70%'}
+
+knitr::include_graphics("docs/bookdown/figure/5.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+```
+
+Global rekabet edebilirlik raporuna göre İspanya dünya genelinde  (Tablo 9 ) 36. Ekonomi olarak bir önceki yıla göre  42.  sıradaki yerini geliştirmiştir.[@xie2020]
+
+```{r resim5, echo=FALSE, fig.align = 'center',fig.cap=" Kaynak İspanya ülke raporu  Nilüfer Y. Esen, İspanya Temel Ekonomik Göstergeler", out.width = '70%'}
+
+knitr::include_graphics("docs/bookdown/figure/6.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+```
+
+İspanyanın enflasyon oranları yıllara göre azalmaktadır. İzlenen sıkı maliye politikaları ve sektörlerde gözlenen liberalizasyon çalışmaları enflasyona olumlu yönde etkilemektedir. Nüfus yapısıda politikalar dahilinde şekillenmiş ve tarım kesiminde çalışan nüfus oranı yüzde dörtlere kadar gerilemiştir. Aynı şekilde diğer sektörlerde çalışanlara bakıldığında önemli miktarda servis hizmetlerinde istihdam sağlandığı görülmektedir.
+
+```{r resim6, echo=FALSE, fig.align = 'center',fig.cap=" : Kaynak İnvest in spain.org,  İspanya nüfusunun  sektörlere dağılımı", out.width = '50%'}
+
+knitr::include_graphics("docs/bookdown/figure/7.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+```
+
+İspanyanın  sanayileşmesi  liberal ekonomik politikalar nedeniyle sekteye uğramıştır. Ülkenin sanayi çekirdeğini bask bölgesindeki metalürji tesisleri ve katalonya bölgesindeki tekstil sektörleri oluşturmaktadır.[@xie2021] Bunların yanında ülkede turizmden önemli gelir elde etmektedir. Ayrıca ülkede madencilik, telekominikasyon, bankacılık, enerji sektörleri önemli iş kollarıdır.
+
+```{r resim7, echo=FALSE, fig.align = 'center',fig.cap="Kaynak İnvest in spain.org,  İspanyaya  Doğrudan Yabancı Yatırımın Yıllara Göre dağılımı", out.width = '50%'}
+
+knitr::include_graphics("docs/bookdown/figure/8.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+```
+
+İspanya  direkt yabancı sermaye girişi ve çıkışı tablolarına bakıldığında ülkedeki net sermaye girişinin yıllara göre arttığı , aynı zamanda net sermaye değişiminin çıkış yönünde olduğu  görülmektedir. Bunun nedeni ise İspanyanın diğer ülkelere yatırım yapma eğiliminde olmasıdır.
+
+```{r resim8, echo=FALSE, fig.align = 'center',fig.cap="Kaynak UNCTAD  world investment report İspanyaya Doğrudan Yabancı Yatırım- 2011", out.width = '80%'}
+
+knitr::include_graphics("docs/bookdown/figure/9.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+```
+
+```{r resim9, echo=FALSE, fig.align = 'center',fig.cap=" Kaynak The Global Competitiveness Report, İspanya Rekabet Ederbilirlik Endeksi 2010–2011", out.width = '80%'}
+
+knitr::include_graphics("docs/bookdown/figure/10.jpg")
+knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+```
+
+
